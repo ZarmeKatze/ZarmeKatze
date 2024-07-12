@@ -17,6 +17,8 @@ i'm a Student Developer from Germany
 
 
 
+
+
 ## My Skills
 
 [![](https://skillicons.dev/icons?i=js,html,css,bootstrap,discordjs,figma,git,github,c#)](https://maierfabian.de)
@@ -37,10 +39,6 @@ i'm a Student Developer from Germany
 
 
 ### Project
-[![My Skills](https://avatars.githubusercontent.com/u/171789311?s=200&v=4)](https://maierfabian.de)
+[![My Skills](https://avatars.githubusercontent.com/u/171789311?s=200&v=4)](https://esportsapp.gg)
 
-## Logo
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
