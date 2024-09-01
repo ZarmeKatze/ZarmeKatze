@@ -27,9 +27,9 @@ i'm a Student Developer from Germany
 
 ## Roadmap
 
-## Lerning C# ![](https://skillicons.dev/icons?i=c#)
+- Lerning C# 
 
-## Lerning Java ![](https://skillicons.dev/icons?i=java)
+- Lerning Java 
 
 
 
