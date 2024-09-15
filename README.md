@@ -7,9 +7,7 @@ i'm a Student Developer from Germany
 
 
 ## Common Github Profile Sections
-👩‍💻 I'm currently working on Esportsapp.gg
-
-🧠 I'm currently learning C#
+👩‍💻 I'm currently working on a AntiCheat 
 
 
 
