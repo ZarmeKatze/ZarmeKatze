@@ -14,7 +14,10 @@ i'm a Student Developer from Germany
 
 
 
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ZarmeKatze&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=00000000" alt="GitHub Streak" /></a>
+</div>
+<br><br>
 
 
 
