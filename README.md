@@ -32,7 +32,7 @@ i'm a Student Developer from Germany
 
 - Lerning Java 
 
-
+<img src="https://raw.githubusercontent.com/ZarmeKatze/ZarmeKatze/output/snake.svg" alt="Snake animation" />
 
 
 ## 🔗 Links
