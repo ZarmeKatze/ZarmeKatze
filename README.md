@@ -22,7 +22,7 @@ i'm a Student Developer from Germany
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,discordjs,figma,git,github,nextjs,nodejs,npm,react,ts,c#,react,tailwind,nextjs)](https://maierfabian.de)
+[![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,discordjs,figma,git,github,nextjs,nodejs,npm,react,ts,c#,tailwind,nextjs)](https://maierfabian.de)
 
 ## Programms
 
