@@ -9,14 +9,12 @@ i'm a Student Developer from Germany
 👩‍💻 I'm currently working on eSportsApp
 
 <br>
-
 - 💻 I'm currently working on the [Tux AntiCheat] (https://esportsapp.gg) which is a part of [eSportsApp] (https://esportsapp.gg) as the lead Developer.
 
 
 
 
 <br>
-
 <div align="center">
 <img alt="ZarmeKatze most used languages" src="https://githubstats.maierfabian.de/api/top-langs?username=ZarmeKatze&theme=gruvbox&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=350" />
 
