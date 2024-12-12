@@ -4,7 +4,9 @@
 ## Common Github Profile Sections
 👩‍💻 I'm currently working on eSportsApp
 
-### 🚀 About Me
+<br>
+
+🚀 About Me
 i'm a Student Developer from Germany
 
 
