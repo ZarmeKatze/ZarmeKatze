@@ -14,19 +14,15 @@ i'm a Student Developer from Germany
 - 💻 I'm currently working on the [TuxAntiCheat] (https://esportsapp.gg) which is a part of [eSportsApp] (https://esportsapp.gg) as the Developer.
 
 
-
-
 <br>
 <div align="center">
 <img alt="ZarmeKatze most used languages" src="https://githubstats.maierfabian.de/api/top-langs?username=ZarmeKatze&theme=gruvbox&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=350" />
-
 </div>
 
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=ZarmeKatze&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=00000000" alt="GitHub Streak" /></a>
 </div>
-<br><br>
 
 
 
@@ -46,4 +42,4 @@ i'm a Student Developer from Germany
 
 
 ### Project
-[![My Skills] (https://avatars.githubusercontent.com/u/171789311?s=200&v=4) ] (https://esportsapp.gg) 
+[![My Projects] (https://avatars.githubusercontent.com/u/171789311?s=200&v=4) ] (https://esportsapp.gg) 
