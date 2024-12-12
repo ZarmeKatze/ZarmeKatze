@@ -7,7 +7,7 @@ i'm a Student Developer from Germany
 
 
 ## Common Github Profile Sections
-👩‍💻 I'm currently working on a AntiCheat 
+👩‍💻 I'm currently working on eSportsApp
 
 
 
@@ -24,17 +24,8 @@ i'm a Student Developer from Germany
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,discordjs,figma,git,github,nextjs,nodejs,npm,react,ts,cs,tailwind)](https://maierfabian.de)
 
-## Programms
 
-[![Programms](https://skillicons.dev/icons?i=idea,rider,vscode)](https://maierfabian.de)
-
- 
-
-## Roadmap
-
-- Lerning C# 
-
-- Lerning Java 
+## Streak
 
 <img src="https://raw.githubusercontent.com/ZarmeKatze/ZarmeKatze/output/snake.svg" alt="Snake animation" />
 
