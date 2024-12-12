@@ -25,7 +25,7 @@ Hi, I'm Patrick! 👋
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,discordjs,docker,figma,git,github,jquery,linux,mysql,mongodb,nextjs,nodejs,npm,prisma,postgres,react,redis,sass,ts,express)](https://maierfabian.de)
+[![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,discordjs,figma,git,github,nextjs,nodejs,npm,react,ts,cs,tailwind)](https://maierfabian.de)
 </div>
 
 <br>
