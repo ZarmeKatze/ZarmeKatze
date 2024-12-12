@@ -21,7 +21,14 @@ Hi, I'm Patrick! 👋
 🛠️ My Skills
 
 
+<br>
 
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,discordjs,docker,figma,git,github,jquery,linux,mysql,mongodb,nextjs,nodejs,npm,prisma,postgres,react,redis,sass,ts,express)](https://maierfabian.de)
+</div>
+
+<br>
 
 
 
