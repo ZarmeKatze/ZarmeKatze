@@ -11,7 +11,7 @@ i'm a Student Developer from Germany
 
 
 <br>
-- 💻 I'm currently working on the [Tux AntiCheat] (https://esportsapp.gg) which is a part of [eSportsApp] (https://esportsapp.gg) as the lead Developer.
+- 💻 I'm currently working on the [TuxAntiCheat] (https://esportsapp.gg) which is a part of [eSportsApp] (https://esportsapp.gg) as the lead Developer.
 
 
 
