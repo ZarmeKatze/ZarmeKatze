@@ -8,7 +8,6 @@ Hi, I'm Patrick! 👋
 💻 Currently working on TuxAntiCheat, an essential part of eSportsApp
 
 <br>
----
 
 📊 GitHub Stats
 
@@ -17,35 +16,32 @@ Hi, I'm Patrick! 👋
 </div><div align="center">
   <img src="https://streak-stats.demolab.com?user=ZarmeKatze&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=00000000" alt="GitHub Streak" />
 </div><br>
----
+
 
 🛠️ My Skills
 
 
 
 
----
+
 
 🐍 Contribution Streak
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ZarmeKatze/ZarmeKatze/output/snake.svg" alt="Snake animation" />
 </div>
----
+
 
 🔗 Links
 
 
 
 
----
+
 
 🎮 Projects
+[![My Projects] (https://avatars.githubusercontent.com/u/171789311?s=200&v=4) ] (https://esportsapp.gg) 
 
 
 
-
----
-
-Feel free to suggest further changes or ideas!
 
