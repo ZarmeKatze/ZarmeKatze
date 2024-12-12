@@ -1,12 +1,12 @@
 # Hi, I'm Patrick! 👋
 
 
-## 🚀 About Me
-i'm a Student Developer from Germany
-
-
 ## Common Github Profile Sections
 👩‍💻 I'm currently working on eSportsApp
+
+### 🚀 About Me
+i'm a Student Developer from Germany
+
 
 <br>
 - 💻 I'm currently working on the [Tux AntiCheat] (https://esportsapp.gg) which is a part of [eSportsApp] (https://esportsapp.gg) as the lead Developer.
