@@ -1,6 +1,9 @@
 
 
-# Hi, I'm Patrick! 👋
+### Hi, I'm Patrick! 👋
+
+# Common Github Profile Section
+
 
 ## 🚀 About Me
 <br>
@@ -10,7 +13,11 @@
 
 <br>
 
-📊 GitHub Stats
+
+
+
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img alt="Patrick's Most Used Languages" src="https://githubstats.maierfabian.de/api/top-langs?username=ZarmeKatze&theme=gruvbox&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=350" />
@@ -19,7 +26,7 @@
 </div><br>
 
 
-🛠️ My Skills
+## 🛠️ My Skills
 
 
 <br>
@@ -33,22 +40,13 @@
 
 
 
-🐍 Contribution Streak
+## 🐍 Contribution Streak
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ZarmeKatze/ZarmeKatze/output/snake.svg" alt="Snake animation" />
 </div>
 
 
-🔗 Links
-
-
-
-
-
-
-🎮 Projects
-[![My Projects] (https://avatars.githubusercontent.com/u/171789311?s=200&v=4) ] (https://esportsapp.gg) 
 
 
 
