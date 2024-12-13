@@ -1,10 +1,11 @@
 
 
-Hi, I'm Patrick! 👋
+# Hi, I'm Patrick! 👋
 
-🚀 About Me
-
+## 🚀 About Me
+<br>
 🎓 Student Developer from Germany
+<br>
 💻 Currently working on TuxAntiCheat, an essential part of eSportsApp
 
 <br>
