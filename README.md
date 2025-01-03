@@ -9,7 +9,7 @@
 <br>
 🎓 Student Developer from Germany
 <br>
-💻 Currently working on eSportsApp SENTRY, an essential part of eSportsApp
+💻 Currently working on eSportsApp SENTRY, an essential part of eSportsApp as the lead Developer
 
 <br>
 
