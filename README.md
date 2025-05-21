@@ -33,7 +33,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,discordjs,figma,git,github,nextjs,nodejs,npm,react,ts,cs,tailwind,angular, rust)](https://maierfabian.de)
+[![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,discordjs,figma,git,github,nextjs,nodejs,npm,react,ts,cs,tailwind,angular,rust)](https://maierfabian.de)
 </div>
 
 <br>
